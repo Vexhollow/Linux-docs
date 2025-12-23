@@ -1,34 +1,34 @@
 # Hyprland Keybindings
 
 ## Application Launchers
-- `SUPER + T` → foot (terminal)
-- **SUPER + R** → rofi (launcher)
-- **SUPER + B** → vivaldi (browser)
-- **SUPER + E** → yazi (file manager)
-- **SUPER + TAB** → missioncenter
+- SUPER + T → foot (terminal)
+- SUPER + R → rofi (launcher)
+- SUPER + B → vivaldi (browser)
+- SUPER + E → yazi (file manager)
+- SUPER + TAB → missioncenter
 
 ## Window Management
-- **SUPER + F** → fullscreen
-- **SUPER + W** → kill active window
-- **SUPER + SPACE** → toggle floating
+- SUPER + F → fullscreen
+- SUPER + W → kill active window
+- SUPER + SPACE → toggle floating
 
 ## Screenshots & Media
-- **SUPER + SHIFT + S** → screenshot
-- **SUPER + PLUS** → volume up
-- **SUPER + MINUS** → volume down
-- **SUPER + RETURN** → mute system
+- SUPER + SHIFT + S → screenshot
+- SUPER + PLUS → volume up
+- SUPER + MINUS → volume down
+- SUPER + RETURN → mute system
 
 ## Music (YouTube Music)
-- **SUPER + M** → play / pause
-- **SUPER + ,** → previous
-- **SUPER + .** → next
+- SUPER + M → play / pause
+- SUPER + , → previous
+- SUPER + . → next
 
 ## Workspaces
-- **SUPER + 1–5** → switch workspace
+- SUPER + 1–5 → switch workspace
 
 ## Focus Movement
-- **SUPER + ← / → / ↑ / ↓** → move focus
+- SUPER + ← / → / ↑ / ↓ → move focus
 
 ## Mouse Bindings
-- **SUPER + MouseL** → move window
-- **SUPER + MouseR** → resize window
+- SUPER + MouseL → move window
+- SUPER + MouseR → resize window
