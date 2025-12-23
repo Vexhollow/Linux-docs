@@ -1,7 +1,7 @@
 # Hyprland Keybindings
 
 ## Application Launchers
-- **SUPER + T** → foot (terminal)
+- `SUPER + T` → foot (terminal)
 - **SUPER + R** → rofi (launcher)
 - **SUPER + B** → vivaldi (browser)
 - **SUPER + E** → yazi (file manager)
